@@ -60,7 +60,7 @@ For more details: [Hugo's official docs](https://gohugo.io/getting-started/quick
 For more details: [host on netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/), [content management](https://www.mikedane.com/static-site-generators/hugo/content-organization/)
 
 # Deployment
-
+ 
 Run `hugo`. It will generate a folder called public. You can use the files inside public folder for deployment. You should delete the public folder for each time when you are using `hugo` command.
 
 # Issues
